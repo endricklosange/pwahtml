@@ -1,0 +1,23 @@
+{
+    "name": "Pwa HTML",
+    "icons": [
+        {
+            "src": "icons/icone1.png",
+            "type": "image/png",
+            "sizes": "2048x2048",
+            "purpose": "any",
+            "form_factor": "wide"
+
+        },
+        {
+            "src": "icons/iconeMobile.png",
+            "type": "image/png",
+            "sizes": "144x144",
+            "purpose": "any",
+            "form_factor": "wide"
+            
+        }
+    ],
+    "start_url": "/?source=pwa",
+    "display": "standalone"
+}
